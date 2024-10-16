@@ -1,5 +1,11 @@
 ##Live
+
+
 https://haticekatranciakgul.github.io/react-weather-app/
+
+![Screenshot 2024-10-17 at 00 17 52](https://github.com/user-attachments/assets/c8cc4b9e-3a39-4a75-a254-94ad0a94fd8c)
+
+
 
 
 # Getting Started with Create React App
